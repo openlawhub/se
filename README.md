@@ -1,2 +1,2 @@
 # se
-Jämförelse av svenska rättsområden
+Sammansättning av svenska rättsområden
